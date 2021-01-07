@@ -52,25 +52,25 @@ export default class App extends React.Component {
                 data-size="large"
                 aria-label="Follow @fahimhoque on GitHub"
               >
-                Follow @lelouchB
+                Follow @fahimhoque
               </a>
               <div style={{ marginLeft: "10px" }}></div>
               <a
                 class="github-button"
-                href="https://github.com/lelouchB/markdown-previewer"
+                href="https://github.com/fahimhoque/markdown-previewer"
                 data-icon="octicon-star"
                 data-size="large"
-                aria-label="Star lelouchB/markdown-previewer on GitHub"
+                aria-label="Star fahimhoque/markdown-previewer on GitHub"
               >
                 Star
               </a>
 
               <a
                 class="github-button"
-                href="https://github.com/lelouchB/markdown-previewer/fork"
+                href="https://github.com/fahimhoque/markdown-previewer/fork"
                 data-icon="octicon-repo-forked"
                 data-size="large"
-                aria-label="Fork lelouchB/markdown-previewer on GitHub"
+                aria-label="Fork fahimhoque/markdown-previewer on GitHub"
               >
                 Fork
               </a>
